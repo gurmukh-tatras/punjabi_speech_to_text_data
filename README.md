@@ -4,3 +4,7 @@ open source data for training Automatic Speech Recognition model in punjabi lang
 each folder contains transcripts.txt file and sub folder 'audio_files' , containing raw text and corresponding audio files respectively.
 
 verified data is may-3 (all 3 folders)
+
+
+All data was collected from panjabi.ai 
+Visit here if you wish to contribute your voice :-)
